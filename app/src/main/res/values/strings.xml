@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dairy</string>
+    <string name="Title">标题</string>
+    <string name="Date">日期</string>
+    <string name="Author">作者</string>
+    <string name="Content">内容</string>
+    <string name="Age">年龄</string>
+    <string name="Name">姓名</string>
+</resources>
